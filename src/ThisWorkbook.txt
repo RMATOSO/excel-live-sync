@@ -1,0 +1,12 @@
+' Paste this code into the "ThisWorkbook" object in the VBA editor (Alt+F11).
+' It starts the watcher when the workbook opens and stops it when it closes.
+
+Option Explicit
+
+Private Sub Workbook_Open()
+    LiveSync.StartWatcher
+End Sub
+
+Private Sub Workbook_BeforeClose(Cancel As Boolean)
+    LiveSync.StopWatcher
+End Sub
