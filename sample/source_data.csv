@@ -1,0 +1,13 @@
+Date,Region,Product,Units,Unit price,Revenue
+2026-10-01,West,Service C,25,12.5,312.5
+2026-10-02,North,Widget B,8,12.5,100.0
+2026-10-03,South,Widget A,8,45.0,360.0
+2026-10-04,West,Widget A,10,19.9,199.0
+2026-10-05,West,Widget A,20,12.5,250.0
+2026-10-06,North,Service C,12,12.5,150.0
+2026-10-07,South,Widget A,30,12.5,375.0
+2026-10-08,East,Widget B,40,12.5,500.0
+2026-10-09,North,Service C,14,45.0,630.0
+2026-10-10,South,Widget A,24,45.0,1080.0
+2026-10-11,North,Service C,17,19.9,338.3
+2026-10-12,North,Service C,9,45.0,405.0
